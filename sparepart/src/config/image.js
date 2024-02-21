@@ -1,0 +1,1 @@
+export const imageUrl = "https://kubalubra.is/wp-content/uploads/2017/11/default-thumbnail.jpg"
